@@ -1,4 +1,4 @@
-# Duke Center for Law &amp; Tech Database
+# Duke Center for Law &amp; Tech DB Project
 
 src - Website Code
 
