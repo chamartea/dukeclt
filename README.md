@@ -10,4 +10,4 @@ data_analysis - Analysis of DB data
 
 main.py - AirTable DB Code
 
-**if you have any questions about the code, please email Anjana - achamarthi6@gatech.edu
+**if you have any questions about the code, please email Anjana Chamarthi - achamarthi6@gatech.edu
